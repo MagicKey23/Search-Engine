@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="search_engine"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="search_engine">
+				<Option output="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release/search_engine" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release/Makefile&quot;  VERBOSE=1 search_engine"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="search_engine/fast">
+				<Option output="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release/search_engine" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release/Makefile&quot;  VERBOSE=1 search_engine/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/Document.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/DocumentParser.cpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/DocumentParser.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/Index.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/IndexHandler.cpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/IndexHandler.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/OleanderStemmingLibrary/include/olestem/stemming/english_stem.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/QueryEngine.cpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/QueryEngine.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/main.cpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/scripts/AvlTree.cpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/scripts/AvlTree.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/scripts/DLListNode.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/scripts/DSLinkedList.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/scripts/DSStack.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/scripts/DSString.cpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/scripts/DSString.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/scripts/DSVector.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/scripts/ExportData.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/scripts/Hashtable.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/scripts/catch.hpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/scripts/hashFunction.cpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/scripts/hashFunction.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/scripts/json_parser/simdjson.cpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/scripts/json_parser/simdjson.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/scripts/porter2_stemmer/porter2_stemmer.cpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/scripts/porter2_stemmer/porter2_stemmer.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/scripts/test.cpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/word.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/knguyen/Desktop/data_structure_project/21s-srch-eng-python-is-lame/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
