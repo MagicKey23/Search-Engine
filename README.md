@@ -1,8 +1,3 @@
 # Search Engine (Spring 2021) 
 
-- [Project Handout](https://docs.google.com/document/d/12IeSu8jHuZMUe4wZO8gnNd26-nkpnZIR4sJcYpw8Bdg/edit?usp=sharing)
-
-### Note: 
-
-Do not attempt to run large data sets through Github Actions!  You can provide a few sample articles as proof that things are working.  Save the large parsing and indexing for your local machine. 
-
+-The tool is use to search of book and auhor in the json file. To use the tool, the user must modify the file path in the DocumentParser.cpp before it is ready to use. When compile the program, the user will receive a command window to instruction how to use it.
